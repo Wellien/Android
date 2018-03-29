@@ -1,4 +1,4 @@
-package fr.smb.univ.acy.iut.monninj.network;
+
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
